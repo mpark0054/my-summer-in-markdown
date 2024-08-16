@@ -11,25 +11,8 @@ Throughout the summer, I listened to artists like Zach Bryan and Ed Sheeran. Spe
 
 ## SPORTS
 During the summer, I played pickleball almost daily with my friends. As well as pickleball, I also played some tennis and beach volleyball here and there.
-## Topic 5
+
+## FAMILY
+My family and I traveled to Spain, as we enjoyed our last family trip with my older brother, who left to college the month after. We said our sad goodbyes right before school started, and spent time with our family.
 
 
-*ITALIC*
-
-**BOLD**
-
-<u>UNDERLINED</u>
-
-- Thing 1
-- Thing 2
-- Thing 3
-
-1. Object 1
-2. Object 2
-3. Object 3
-
-[link to wikepdia about cats](https://en.wikipedia.org/wiki/Cat)
-
-
-
-![picture of cat](cat.png)
